@@ -1,4 +1,8 @@
-### Hi there 👋
+### Laurens Wolfert, ELgamer
+
+Admin and Developer of BTE UK
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LM-Wolfert&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--
 **LM-Wolfert/LM-Wolfert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
