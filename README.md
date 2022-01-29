@@ -1,6 +1,9 @@
 ### Laurens Wolfert, ELgamer
 
+Final year of BSc Statistics at the University of Essex  
 Admin and Developer of BTE UK
+  
+Currently developing multiple Minecraft plugins for BTE UK.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LM-Wolfert&count_private=true&theme=tokyonight&showicons=true)]()
 
