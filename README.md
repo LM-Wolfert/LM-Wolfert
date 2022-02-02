@@ -5,6 +5,8 @@ Admin and Developer of BTE UK
   
 Currently developing multiple Minecraft plugins for BTE UK.
 
+**NOTE** All BTE UK related repositories are being moved to [BTE UK](https://www.github.com/BTEUK)!
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LM-Wolfert&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--
