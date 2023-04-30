@@ -1,6 +1,6 @@
 ### Laurens Wolfert, ELgamer
 
-Final year of BSc Statistics at the University of Essex  
+Full-Time Java Developer, BSc Statistics
 Admin and Developer of BTE UK
   
 Currently developing multiple Minecraft plugins for BTE UK.
