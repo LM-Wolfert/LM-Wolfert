@@ -1,6 +1,6 @@
 ### Laurens Wolfert, ELgamer
 
-Full-Time Java Developer, BSc Statistics
+Full-Time Java Developer, BSc Statistics  
 Admin and Developer of BTE UK
   
 Currently developing multiple Minecraft plugins for BTE UK.
