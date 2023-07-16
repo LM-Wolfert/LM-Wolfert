@@ -3,7 +3,7 @@
 Full-Time Java Developer, BSc Statistics  
 Admin and Developer of BTE UK
   
-Currently developing multiple Minecraft plugins for BTE UK.
+Currently developing multiple Minecraft plugins for [BTE UK](https://www.github.com/BTEUK).
 
 **NOTE** All BTE UK related repositories are stored under [BTE UK](https://www.github.com/BTEUK)!
 
