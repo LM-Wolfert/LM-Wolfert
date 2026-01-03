@@ -3,9 +3,9 @@
 Full-Time Java Developer, BSc Statistics  
 Admin and Developer of Build the UK
   
-Currently developing multiple Minecraft plugins for [Build the UK](https://www.github.com/BuildTheUK).
+Currently developing multiple Minecraft plugins for [Build the UK](https://www.github.com/BuildtheUK).
 
-**NOTE** All Build the UK related repositories are stored under [Build the UK](https://www.github.com/BuildTheUK)!
+**NOTE** All Build the UK related repositories are stored under [Build the UK](https://www.github.com/BuildtheUK)!
 
 <!--
 **LM-Wolfert/LM-Wolfert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
