@@ -1,11 +1,11 @@
 ### Laurens Wolfert, ELgamer
 
 Full-Time Java Developer, BSc Statistics  
-Admin and Developer of BTE UK
+Admin and Developer of Build the UK
   
-Currently developing multiple Minecraft plugins for [BTE UK](https://www.github.com/BTEUK).
+Currently developing multiple Minecraft plugins for [Build the UK](https://www.github.com/BuildTheUK).
 
-**NOTE** All BTE UK related repositories are stored under [BTE UK](https://www.github.com/BTEUK)!
+**NOTE** All Build the UK related repositories are stored under [Build the UK](https://www.github.com/BuildTheUK)!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LM-Wolfert&count_private=true&theme=tokyonight&showicons=true)]()
 
