@@ -7,8 +7,6 @@ Currently developing multiple Minecraft plugins for [Build the UK](https://www.g
 
 **NOTE** All Build the UK related repositories are stored under [Build the UK](https://www.github.com/BuildTheUK)!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LM-Wolfert&count_private=true&theme=tokyonight&showicons=true)]()
-
 <!--
 **LM-Wolfert/LM-Wolfert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
